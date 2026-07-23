@@ -48,13 +48,15 @@ This project was developed as part of the **Google Solution Challenge 2026**.
 
 ## 🚀 My Contributions
 
-As a Frontend Developer, I contributed by:
+As a BackEnd Developer, I contributed by:
 
-- Designed and developed the responsive user interface.
-- Built the landing page and dashboard layouts.
-- Improved user experience and navigation.
-- Integrated frontend with backend APIs.
-- Participated in project planning, testing, and debugging.
+- Developed the backend architecture.
+- Designed and implemented RESTful APIs.
+- Integrated Firebase/Database services.
+- Implemented authentication and authorization.
+- Connected the frontend with backend services.
+- Fixed backend bugs and optimized API performance.
+- Collaborated with teammates using Git and GitHub
 
 ---
 
